@@ -120,8 +120,8 @@ This surfaced a clear Phase 1 focus: fix the vendor onboarding bottleneck and di
 
 ## Related Projects
 
-- [Membership Platform Case Study](../membership-platform-case-study)
-- [HR Management System Case Study](../hr-management-system-case-study)
+- [Membership Platform Case Study](https://github.com/BrendaOgetonto/membership-platform-case-study)
+- [HR Management System Case Study](https://github.com/BrendaOgetonto/hr-management-system-case-study)
 
 ---
 
